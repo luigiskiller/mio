@@ -1,1 +1,2 @@
-mkdir nuevacaptera
+@echo off
+mkdir nuevacaptera.txt
